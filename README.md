@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/AlanNonat0">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanNonat0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br&icon_color=A578D2&title_color=A578D2&border_color=DDDCDE&text_color=84F738&bg_color=141313"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNonat0&layout=compact&langs_count=7&theme=gruvbox&icon_color=A578D2&title_color=A578D2&border_color=DDDCDE&text_color=84F738&bg_color=141313"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanNonat0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br&icon_color=A578D2&title_color=A578D2&border_color=DDDCDE&text_color=84F738"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNonat0&layout=compact&langs_count=7&theme=gruvbox&icon_color=A578D2&title_color=A578D2&border_color=DDDCDE&text_color=84F738"/>
 </div>
 
 <div style="display: inline_block"><br>
