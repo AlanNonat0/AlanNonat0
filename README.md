@@ -25,7 +25,7 @@
 </div>
  
  ##
- 
+
 - 💻 Sou Estudande de Analalise e Desenvolvimento de Sistemas
 - 🌐 Apaixonado por programação
 - 🛠️ Focado na trilha back end
