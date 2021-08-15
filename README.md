@@ -1,9 +1,5 @@
 ## 🌎 Olá mundo, sou Alan Nonato 😀
 
-- 💻 Sou Estudande de Analalise e Desenvolvimento de Sistemas
-- 🌐 Apaixonado por programação
-- 🛠️ Focado na trilha back end
-
  <div>
   <a href="https://github.com/AlanNonat0">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanNonat0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -27,3 +23,10 @@
   <a href = "mailto:developer.alan.nonato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-nonato-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+ 
+ ##
+ 
+- 💻 Sou Estudande de Analalise e Desenvolvimento de Sistemas
+- 🌐 Apaixonado por programação
+- 🛠️ Focado na trilha back end
+
