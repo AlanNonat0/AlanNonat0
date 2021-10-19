@@ -2,7 +2,7 @@
  
 <a href="https://github.com/AlanNonat0">
  <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanNonat0&show_icons=true&theme=dark&icon_color=F66D6D&include_all_commits=true&count_private=true&locale=pt-br"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlanNonat0&show_icons=true&theme=dark&icon_color=FFFFFF&include_all_commits=true&count_private=true&locale=pt-br"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNonat0&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 
